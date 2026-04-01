@@ -90,7 +90,7 @@ export const DATA = {
     {
       school: "B.Tech Computer Science",
       href: "#",
-      degree: "Dropped Out (2021-2025)",
+      degree: "(2021-2025)",
       logoUrl: "/university.png",
       start: "2021",
       end: "2025",
